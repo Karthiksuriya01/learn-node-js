@@ -1,0 +1,1 @@
+You cannot create browser interaction functions in nodejs

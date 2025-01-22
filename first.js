@@ -1,0 +1,1 @@
+console.log("hello")   // to run a file use "node filname.js"
